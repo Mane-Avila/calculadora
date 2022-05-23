@@ -16,10 +16,7 @@ public class calculadora {
 
 
 
-    
-    public calculadora(){
-        
-    }
+ 
     
       // sets and gets
 
