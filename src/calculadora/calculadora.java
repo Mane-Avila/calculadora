@@ -7,7 +7,7 @@ package calculadora;
 
 /**
  *
- * @author Mane
+ * @author Mane Avila
  */
 public class calculadora {
      private double numero1;
